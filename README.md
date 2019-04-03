@@ -33,7 +33,7 @@ Sklearn
 python main.py
 ```
 
-If you find our code useful, please cite the paper.
+If you find the code useful, please cite the paper.
 
 ```
 @article{xia2018zero,
