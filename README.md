@@ -49,5 +49,5 @@ https://github.com/congyingxia/ZeroShotCapsule
 
 https://github.com/soskek/dynamic_routing_between_capsules
 
-https://github.com/flrngel/Self-Attentive-tensorflow
+https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding 
 
